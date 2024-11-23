@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://github.com/jaumpietrobao/Dev_Web_Curso/)
+- [Acesse o projeto finalizado, online](https://jaumpietrobao.github.io/Dev_Web_Curso/)
 
 ## :memo: Licença
 
